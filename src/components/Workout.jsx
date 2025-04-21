@@ -1,7 +1,7 @@
 import React from 'react'
 
 import ExcerciseCard from './ExcerciseCard'
-import SectionWrapper from './sectionWrapper'
+import SectionWrapper from './SectionWrapper'
 
 export default function Workout(props) {
     const { workout } = props

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import SectionWrapper from './sectionWrapper'
+import SectionWrapper from './SectionWrapper'
 import { SCHEMES, WORKOUTS } from'../utils/excercises'
 import Button from './Button'
 
