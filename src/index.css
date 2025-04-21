@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  font-family: "poppins", sans-serif;
+}
+
+span{
+  font-family: inherit;
+  font-weight: inherit;
+
+}
+
+.blueShadow{
+  box-shadow: 2px 2px 0 0 #60A5FA;
+}
+
+.blueShadow:hover{
+  transform: translate(-3px, -3px);
+  box-shadow: 6px 6px 0 0 #60A5FA;
+}
+
+
